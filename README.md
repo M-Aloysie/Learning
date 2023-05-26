@@ -1,4 +1,5 @@
-![hBnB](https://github.com/JacquelineTuyisenge/alu-AirBnB_clone/blob/main/images/hbnb.png?raw=true)
+![hbnb_logo (1)](https://github.com/M-Aloysie/Learning/assets/109438174/89eedb3a-4f65-40b5-b77e-eef734760316)
+
 
 # alu-AirBnB_clone
 # AirBnB Clone Command Interpreter
